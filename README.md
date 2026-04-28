@@ -1,5 +1,7 @@
-                                                      Hello, I'm Himasha! 👋✨
-I'm a Computer Engineering undergraduate at the University of Peradeniya, deeply passionate about crafting robust, scalable, and beautiful full-stack web systems. 👩‍💻🚀 My focus lies in clean system design, efficient backend architecture, and creating seamless, delightful user experiences. 🌸💻
+![Himasha's Banner](https://api.screenshot.net/banner?url=https://myskills.now.sh/HIMASHA,React,Node.js,MySQL,ComputerEngineering&width=1280&height=640)  
+
+✨ Turning Complex Engineering Challenges into Seamless Digital Experiences. 🌸
+Hello, I’m Himasha! 👋 Computer Engineering undergraduate at the University of Peradeniya. I live at the intersection of robust backend logic and elegant frontend design, building systems that don't just work—they inspire. 👩‍💻🎀
 
 ---
 
