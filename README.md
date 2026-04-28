@@ -11,9 +11,8 @@
 
 <br>
 <hr>
----
 
-Hello, I’m Himasha! 👋 Computer Engineering undergraduate at the University of Peradeniya. I live at the intersection of robust backend logic and elegant frontend design, building systems that don't just work—they inspire. 👩‍💻🎀
+Hello, I’m Himasha! 👋 Computer Engineering undergraduate at the University of Peradeniya. I live at the intersection of robust backend logic and elegant frontend design, building systems that don't just work they inspire. 👩‍💻🎀
 
 ---
 
