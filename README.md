@@ -1,6 +1,15 @@
-![Himasha's Banner](https://api.screenshot.net/banner?url=https://myskills.now.sh/HIMASHA,React,Node.js,MySQL,ComputerEngineering&width=1280&height=640)  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Himasha&fontSize=60&fontColor=ffffff&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60" />
 
-✨ Turning Complex Engineering Challenges into Seamless Digital Experiences. 🌸
+  <br>
+
+  <blockquote style="font-size: 1.2em; color: #555;">
+    ✨ <strong>Turning Complex Engineering Challenges into Seamless Digital Experiences.</strong> 🌸
+  </blockquote>
+</div>
+
+---
+
 Hello, I’m Himasha! 👋 Computer Engineering undergraduate at the University of Peradeniya. I live at the intersection of robust backend logic and elegant frontend design, building systems that don't just work—they inspire. 👩‍💻🎀
 
 ---
