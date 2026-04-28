@@ -1,9 +1,5 @@
-# 👋 Hey, I'm Himasha
-
-💻 Computer Engineering Student  
-🚀 Full Stack Developer | React • Node • MySQL  
-🧠 Builder of real-world systems (MyStay, Smart Task Planner)  
-⚙️ Focused on scalable software & clean system design  
+                                                      Hello, I'm Himasha! 👋✨
+I'm a Computer Engineering undergraduate at the University of Peradeniya, deeply passionate about crafting robust, scalable, and beautiful full-stack web systems. 👩‍💻🚀 My focus lies in clean system design, efficient backend architecture, and creating seamless, delightful user experiences. 🌸💻
 
 ---
 
