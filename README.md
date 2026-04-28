@@ -14,19 +14,11 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend**
-React • HTML • CSS • JavaScript  
-
-**Backend**
-Node.js • Express  
-
-**Database**
-MySQL  
-
-**Tools**
-Git • GitHub • REST APIs  
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
 ---
 
