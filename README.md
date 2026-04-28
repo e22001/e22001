@@ -1,13 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Himasha&fontSize=60&fontColor=ffffff&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Himasha&fontSize=80&fontColor=ffffff&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descSize=25&descAlignY=60&gradient=60" />
 
   <br>
+  <br>
 
-  <blockquote style="font-size: 1.2em; color: #555;">
-    ✨ <strong>Turning Complex Engineering Challenges into Seamless Digital Experiences.</strong> 🌸
-  </blockquote>
+  <div style="padding: 25px; border: 2px solid #ffb6c1; border-radius: 15px; background-color: #fffafb; display: inline-block;">
+    <h2 style="color: #d63384; margin: 0;">✨ Turning Complex Engineering Challenges into Seamless Digital Experiences. 🌸</h2>
+  </div>
 </div>
 
+<br>
+<hr>
 ---
 
 Hello, I’m Himasha! 👋 Computer Engineering undergraduate at the University of Peradeniya. I live at the intersection of robust backend logic and elegant frontend design, building systems that don't just work—they inspire. 👩‍💻🎀
