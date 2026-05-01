@@ -55,6 +55,17 @@ Smart accommodation booking & management system
 Task automation + productivity system  
 `Full-stack web application`
 
+### 🎮 3D Software Renderer
+A high-performance renderer built from scratch in C, implementing the complete graphics pipeline without external libraries.
+- **Key Features:** Matrix transformations (Rotation, Scaling, Translation), Vector math, and Wireframe rendering.
+- **Tech Stack:** `C` `Math` `Graphics Pipeline`
+
+### 🤖 Autonomous Robotics Projects
+Developed line-following and sensor-integrated robots focusing on PID control and sensor fusion.
+- **Key Features:** IR sensor arrays, Ultrasonic obstacle avoidance, and optimized motor control logic.
+- **Tech Stack:** `C++` `Arduino/AVR` `Embedded Systems`
+  
+
 ## 📈 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=e22001&hide_border=true&theme=tokyonight)
