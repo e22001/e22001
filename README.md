@@ -90,6 +90,7 @@ Developed line-following and sensor-integrated robots focusing on PID control an
 
 ## 📫 Connect With Me
 LinkedIn: https://www.linkedin.com/in/himasha-nimnadi-2809053b2/
+
 Email: himashanimnadi2022@gmail.com
 
 ---
