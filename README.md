@@ -72,6 +72,8 @@ Developed line-following and sensor-integrated robots focusing on PID control an
 
 ---
 
+React • Node.js • MySQL • Git • HTML5 • CSS3 • JavaScript • Python • C • Flask • Bootstrap • SQLite • SQL • Linux • ARM Assembly
+
 ## 💡 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e22001&layout=compact&hide_border=true&theme=tokyonight)
