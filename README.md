@@ -39,18 +39,17 @@ Hello, I’m Himasha! 👋 Computer Engineering undergraduate at the University 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 💡 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e22001&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=e22001&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+## 💡 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e22001&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ## 🔥 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=e22001&hide_border=true)
