@@ -41,16 +41,13 @@ Hello, I’m Himasha! 👋 Computer Engineering undergraduate at the University 
 
 ## 💡 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e22001&layout=compact&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e22001&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e22001&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e22001&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e22001&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
-
 ## 🔥 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=e22001&hide_border=true)
